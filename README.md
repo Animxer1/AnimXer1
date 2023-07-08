@@ -20,7 +20,7 @@
 
 <hr>
 
-### ♻️ Get TechZApi
+#### ♻️ Get TechZApi
 
 - Get from @TechZApiBot on Telegram | https://t.me/TechZApiBot
 - Fill this in env or in config.py
